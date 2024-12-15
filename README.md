@@ -3,4 +3,4 @@
 - **help appreciated!**
 
 # how to reach me:
-   - my discord: @observer_unit
+   - my discord: @unit_gaburoon
