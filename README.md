@@ -1,6 +1,17 @@
-# currently working on: 
-- [SafaOS](https://github.com/SafaOS/SafaOS)
-- **help appreciated!**
+## About:
+A weeb high-schooler interested in CS for fun.
 
-# how to reach me:
-   - my discord: @unit_gaburoon
+my favorite anime is `Made in Abyss` from which i stole [Gaburoon's identity](https://madeinabyss.fandom.com/wiki/Gaburoon)
+## Languages:
+>from favorite to least favorite
+
+![Rust](https://img.shields.io/badge/Rust-orange.svg?style=for-the-badge&logo=Rust) ![Zig](https://img.shields.io/badge/Zig-black.svg?style=for-the-badge&logo=zig) ![Go](https://img.shields.io/badge/Go-blue.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/-black.svg?style=for-the-badge&logo=C)
+## Top languages (not accurate):
+ [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ObserverUnit&theme=radical&layout=compact)](https://github.com/ObserverUnit)
+## Stats:
+![Gabu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ObserverUnit&show_icons=true&theme=radical)
+## Currently working on: 
+- [SafaOS](https://github.com/SafaOS/SafaOS)
+
+## How to reach me:
+   - discord: @unit_gaburoon
