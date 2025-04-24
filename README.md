@@ -1,12 +1,6 @@
-<div align="center">
-<img src="https://media1.tenor.com/m/JljqrkWdNSAAAAAd/faputa-made-in-abyss.gif" width="60%" height="10%">    
-
-</div>
-
 ## About:
 A weeb high-schooler interested in CS for fun.
 
-my favorite anime is `Made in Abyss` from which i stole [Gaburoon's identity](https://madeinabyss.fandom.com/wiki/Gaburoon) :D
 ## Languages:
 >from favorite to least favorite
 
