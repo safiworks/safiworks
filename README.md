@@ -13,4 +13,4 @@ A weeb high-schooler interested in CS for fun.
 - [SafaOS](https://github.com/SafaOS/SafaOS)
 
 ## How to reach me:
-   - discord: @unit_gaburoon
+   - discord: @safiworks
